@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @brentlogan
-- 👀 I’m interested in using GPS devices to track/measuring downhill longboarding.
+- 👀 I’m interested in using GPS devices to track/measure downhill longboarding.
 - 🌱 I’m currently learning React Native using Expo
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me https://brentlogan.com/contact/
